@@ -12,7 +12,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=DakshBhalala&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
 
+## About Me 🌟
+
+- 📚 Currently pursuing a diploma in Computer Engineering
+- 🐍 Love for Python: I'm fascinated by the versatility and power of Python.
+- 📊 Future Data Scientist: Dreaming of exploring the world of data science and making meaningful insights using Python.
+
 <!-- Skills Section -->
+
 ## Skills 🚀
 
 <p align="center">
@@ -22,6 +29,10 @@
   <img src="https://img.shields.io/badge/Web%20Development-Beginner-blueviolet" alt="Web Development">
   <img src="https://img.shields.io/badge/Machine%20Learning-Beginner-blueviolet" alt="Machine Learning">
 </p>
+
+## Current Focus 🎯
+
+Right now, I'm diving deep into the world of data science with Python. I believe in the potential of data to drive informed decisions, and I'm excited to contribute to this field. 🔍📈💻
 
 <!-- Connect with Me Section -->
 
@@ -44,11 +55,6 @@
 ## Let's Collaborate! 🤝
 
 If you share similar interests or have exciting projects in mind, I'd love to collaborate. Feel free to reach out, and let's create something amazing together!
-
-<!-- Footer Section -->
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=dakshbhalala.dakshbhalala" alt="Visitors">
-</p>
 
 <!-- Happy Coding Section -->
 <p align="center">Happy coding! 🚀</p>
