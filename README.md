@@ -48,6 +48,9 @@ Right now, I'm diving deep into the world of data science with Python. I believe
   <a href="https://twitter.com/DakshBhalala">
     <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter">
   </a>
+  <a href="https://www.instagram.com/bhalaladaksh">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram" alt="Instagram">
+  </a>
 </p>
 
 <!-- Collaboration Section -->
