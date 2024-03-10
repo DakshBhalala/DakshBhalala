@@ -1,8 +1,3 @@
-<!-- Banner Section with GIF -->
-<!-- <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/banner.gif" alt="Banner">
-</p> -->
-
 <!-- Welcome Section -->
 <h1 align="center">👋 Hi there, I'm Daksh Bhalala</h1>
 
@@ -16,14 +11,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DakshBhalala&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
-
-## Table of Contents
-
-- [About Me🌟](#about-me-🌟)
-- [Skills 🚀](#skills-🚀)
-- [Current Focus 🎯](#current-focus-🎯)
-- [Connect with Me 🌐](#connect-with-me-🌐)
-- [Projects 🛠️](#projects-🛠️)
 
 ## About Me 🌟
 
@@ -67,12 +54,14 @@ Right now, I'm diving deep into the world of data science with Python. I believe
 </p>
 
 <!-- Projects Section -->
-
 ## Projects 🛠️
 
-Here are some of the projects I'm currently working on:
-
-1. [PyPatterns](PyPatterns): Patterns Playground 🎨 Explore Python patterns – where code meets art! 🌈✨
+<div align="center">
+  <a href="https://github.com/DakshBhalala/PyPatterns">
+    <img src="https://img.shields.io/badge/Project-PyPatterns-%23ff4f81" alt="PyPatterns">
+  </a>
+  <img src="https://img.shields.io/badge/Description-Patterns%20Playground%20🎨%20Explore%20Python%20patterns%20–%20where%20code%20meets%20art!%20🌈✨-%2300C7C7" alt="Description">
+</div>
 
 <!-- Collaboration Section -->
 
