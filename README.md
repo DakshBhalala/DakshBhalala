@@ -45,7 +45,7 @@ Right now, I'm diving deep into the world of data science with Python. I believe
   <a href="https://www.linkedin.com/in/dakshbhalala">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/DakshBhalala">
+  <a href="https://x.com/DakshBhalala">
     <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter">
   </a>
   <a href="https://www.instagram.com/bhalaladaksh">
