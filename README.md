@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hi there, I'm Daksh Bhalala</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Diploma-Computer%20Engineering-red" alt="Diploma: Computer Engineering">
+  <img src="https://img.shields.io/badge/B.tech-Computer%20Engineering-red" alt="B.tech: Computer Engineering">
   <img src="https://img.shields.io/badge/Future%20Goal-Data%20Scientist-green" alt="Future Goal: Data Scientist">
   <img src="https://img.shields.io/badge/Loves-Python-yellow" alt="Loves: Python">
 </p>
@@ -14,7 +14,7 @@
 
 ## About Me 🌟
 
-- 📚 Currently pursuing a diploma in Computer Engineering
+- 📚 Currently pursuing a B.tech in Computer Engineering
 - 🐍 Love for Python: I'm fascinated by the versatility and power of Python.
 - 📊 Future Data Scientist: Dreaming of exploring the world of data science and making meaningful insights using Python.
 
